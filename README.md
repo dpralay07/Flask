@@ -1,2 +1,4 @@
 # Flask
-Designing web apps with Flask
+Designing web apps with Flask.
+
+Flask: A Python Framework.
